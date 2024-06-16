@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mini data science challenge is an individual programming assignment of the MLB course. It serves as an exercise to gain hands-on experience in machine learning (ML) model development. The task is a regression problem where the goal is to develop an ML model to predict a protein's thermostability (a real-valued score) using its amino acid sequence as input. Additional models and methodologies were used including One-Hot Encoding, CNNs, and Random Forest with PCA.
+This mini data science challenge is an individual programming project of the MLB course. It serves as an exercise to gain hands-on experience in machine learning (ML) model development. The task is a regression problem where the goal is to develop an ML model to predict a protein's thermostability (a real-valued score) using its amino acid sequence as input. Additional models and methodologies were used including One-Hot Encoding, CNNs, and Random Forest with PCA.
 
 
 
