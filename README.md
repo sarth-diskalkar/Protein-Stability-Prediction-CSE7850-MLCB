@@ -1,5 +1,3 @@
-# Protein-Stability-Prediction-CSE7850-MLCB
-***Needs a description***
 # Protein Stability Prediction (MLB S24) [Extension]
 
 ## Overview
